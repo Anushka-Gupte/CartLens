@@ -8,6 +8,8 @@ This project is useful for merchandising, cross-sell recommendations, bundle sug
 
 ## Demo
 
+https://ea8ie3cfylzzgvovhgnogb.streamlit.app/
+
 https://github.com/user-attachments/assets/9886ca96-f105-4228-afe5-e063b90277b4
 
 ## Key features
